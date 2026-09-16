@@ -180,7 +180,7 @@ Worked with:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Afzalll01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
