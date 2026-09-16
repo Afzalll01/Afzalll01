@@ -139,18 +139,6 @@ Worked with:
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Afzalll01&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afzalll01&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
